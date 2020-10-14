@@ -1,2 +1,0 @@
-# geekbrains.python
-For homework
